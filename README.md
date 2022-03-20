@@ -1,6 +1,7 @@
-# python-sleuthkit-recover
 
-## Linux command line thumbstick file recovery script using SleuthKit
+# Problem Statement: 
+Design a file recovery algorithm that can recover all sorts of files from any point of time in your system. The backup and recovery process should be secure, and user authentication based on attributes should be performed before the recovery process begins.
+
 
 ### Features
 1. Recover accidentaly deleted files from your thumbstick
