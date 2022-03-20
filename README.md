@@ -12,7 +12,7 @@ Design a file recovery algorithm that can recover all sorts of files from any po
 
 ### To Run this file,
 1. Make sure [SleuthKit](https://www.sleuthkit.org/sleuthkit/download.php "SleuthKit download page") and [Python 3.x](https://www.python.org/downloads/ "Python download page") is installed
-1. [Clone](https://github.com/Deepak710/python-sleuthkit-recover.git)/[Download](https://github.com/Deepak710/python-sleuthkit-recover/archive/master.zip) this repo
+1. [Clone](https://github.com/Suraj0307/DSA-Challenge4) this repo
 1. Run the recover.py script
     ```cmd
       python3 recover.py
